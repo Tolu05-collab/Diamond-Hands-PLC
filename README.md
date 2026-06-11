@@ -19,7 +19,7 @@ Slack notifications for sales teams
 Automated email follow-up sequences
 No-code implementation using Make.com
 
-#TECH STACK
+# TECH STACK
 Make.com (Workflow Automation)
 Google Forms (Lead Collection)
 Google Sheets (Lead Database)
