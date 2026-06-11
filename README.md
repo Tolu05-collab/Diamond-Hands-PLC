@@ -20,8 +20,8 @@ Automated email follow-up sequences
 No-code implementation using Make.com
 
 # TECH STACK
-Make.com (Workflow Automation)
-Google Forms (Lead Collection)
-Google Sheets (Lead Database)
-Slack (Internal Notifications)
-Email Service (Customer Follow-Up)
+Make.com (Workflow Automation),
+Google Forms (Lead Collection),
+Google Sheets (Lead Database),
+Slack (Internal Notifications),
+Email Service (Customer Follow-Up) .
